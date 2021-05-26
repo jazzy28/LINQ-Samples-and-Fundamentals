@@ -1,0 +1,1208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car Name="4C" Combines="34" />
+  <Car Name="V12 Vantage S" Combines="18" />
+  <Car Name="V8 Vantage" Combines="21" />
+  <Car Name="V8 Vantage" Combines="19" />
+  <Car Name="V8 Vantage S" Combines="21" />
+  <Car Name="V8 Vantage S" Combines="19" />
+  <Car Name="Vantage GT" Combines="21" />
+  <Car Name="Vantage GT" Combines="19" />
+  <Car Name="TT Roadster quattro" Combines="30" />
+  <Car Name="M4 GTS" Combines="23" />
+  <Car Name="Z4 sDrive28i" Combines="33" />
+  <Car Name="Z4 sDrive28i" Combines="34" />
+  <Car Name="Z4 sDrive35i" Combines="24" />
+  <Car Name="Z4 sDrive35is" Combines="24" />
+  <Car Name="CORVETTE" Combines="23" />
+  <Car Name="CORVETTE" Combines="29" />
+  <Car Name="CORVETTE" Combines="22" />
+  <Car Name="CORVETTE" Combines="29" />
+  <Car Name="Viper SRT" Combines="21" />
+  <Car Name="488 GTB" Combines="22" />
+  <Car Name="488 GTB" Combines="22" />
+  <Car Name="F12" Combines="16" />
+  <Car Name="F12" Combines="16" />
+  <Car Name="F12 tdf" Combines="17" />
+  <Car Name="F12 tdf" Combines="15" />
+  <Car Name="F60 America" Combines="15" />
+  <Car Name="F60 America" Combines="15" />
+  <Car Name="CR-Z" Combines="39" />
+  <Car Name="CR-Z" Combines="38" />
+  <Car Name="F-TYPE Convertible" Combines="28" />
+  <Car Name="F-TYPE Convertible Manual" Combines="24" />
+  <Car Name="F-TYPE Coupe" Combines="28" />
+  <Car Name="F-TYPE Coupe Manual" Combines="24" />
+  <Car Name="F-TYPE R AWD Convertible" Combines="23" />
+  <Car Name="F-TYPE R AWD Coupe" Combines="23" />
+  <Car Name="F-TYPE R Convertible" Combines="23" />
+  <Car Name="F-TYPE S AWD Convertible" Combines="26" />
+  <Car Name="F-TYPE S AWD Coupe" Combines="26" />
+  <Car Name="F-TYPE S Convertible" Combines="27" />
+  <Car Name="F-TYPE S Convertible Manual" Combines="24" />
+  <Car Name="F-TYPE S Coupe" Combines="27" />
+  <Car Name="F-TYPE S Coupe Manual" Combines="24" />
+  <Car Name="Aventador Coupe" Combines="18" />
+  <Car Name="Aventador Roadster" Combines="17" />
+  <Car Name="Huracan" Combines="21" />
+  <Car Name="Huracan Spyder" Combines="20" />
+  <Car Name="MX-5" Combines="36" />
+  <Car Name="MX-5" Combines="34" />
+  <Car Name="570S Coupe" Combines="23" />
+  <Car Name="650S Coupe" Combines="22" />
+  <Car Name="650S Spider" Combines="22" />
+  <Car Name="675LT Coupe" Combines="22" />
+  <Car Name="AMG GT S" Combines="22" />
+  <Car Name="AMG SL 63" Combines="25" />
+  <Car Name="AMG SL 65" Combines="21" />
+  <Car Name="AMG SLK 55" Combines="28" />
+  <Car Name="SL 400" Combines="27" />
+  <Car Name="SL 550" Combines="24" />
+  <Car Name="SLK 300" Combines="32" />
+  <Car Name="SLK 350" Combines="29" />
+  <Car Name="Smart fortwo (COUPE)" Combines="39" />
+  <Car Name="Smart fortwo (COUPE)" Combines="39" />
+  <Car Name="370Z" Combines="26" />
+  <Car Name="370Z" Combines="26" />
+  <Car Name="370Z Roadster" Combines="25" />
+  <Car Name="370Z Roadster" Combines="24" />
+  <Car Name="Huayra Coupe" Combines="17" />
+  <Car Name="911 GT3" Combines="20" />
+  <Car Name="911 GT3RS" Combines="20" />
+  <Car Name="Boxster" Combines="32" />
+  <Car Name="Boxster" Combines="30" />
+  <Car Name="Boxster GTS" Combines="31" />
+  <Car Name="Boxster GTS" Combines="26" />
+  <Car Name="Boxster S" Combines="30" />
+  <Car Name="Boxster S" Combines="28" />
+  <Car Name="Boxster Spyder" Combines="24" />
+  <Car Name="Cayman" Combines="32" />
+  <Car Name="Cayman" Combines="30" />
+  <Car Name="Cayman GT4" Combines="23" />
+  <Car Name="Cayman GTS" Combines="31" />
+  <Car Name="Cayman GTS" Combines="26" />
+  <Car Name="Cayman S" Combines="30" />
+  <Car Name="Cayman S" Combines="28" />
+  <Car Name="DB9" Combines="19" />
+  <Car Name="Vanquish" Combines="21" />
+  <Car Name="California T" Combines="23" />
+  <Car Name="California T" Combines="23" />
+  <Car Name="500" Combines="32" />
+  <Car Name="500" Combines="34" />
+  <Car Name="500" Combines="34" />
+  <Car Name="500" Combines="40" />
+  <Car Name="500 Abarth" Combines="32" />
+  <Car Name="500 Abarth" Combines="34" />
+  <Car Name="Mini Cooper Convertible" Combines="37" />
+  <Car Name="Mini Cooper Convertible" Combines="38" />
+  <Car Name="Mini Cooper S Convertible" Combines="34" />
+  <Car Name="Mini Cooper S Convertible" Combines="33" />
+  <Car Name="911 Carrera" Combines="28" />
+  <Car Name="911 Carrera" Combines="27" />
+  <Car Name="911 Carrera 4" Combines="28" />
+  <Car Name="911 Carrera 4" Combines="27" />
+  <Car Name="911 Carrera 4 Cabriolet" Combines="27" />
+  <Car Name="911 Carrera 4 Cabriolet" Combines="26" />
+  <Car Name="911 Carrera 4 GTS" Combines="26" />
+  <Car Name="911 Carrera 4 GTS" Combines="26" />
+  <Car Name="911 Carrera 4 GTS Cabriolet" Combines="25" />
+  <Car Name="911 Carrera 4 GTS Cabriolet" Combines="25" />
+  <Car Name="911 Carrera 4S" Combines="26" />
+  <Car Name="911 Carrera 4S" Combines="26" />
+  <Car Name="911 Carrera 4S Cabriolet" Combines="26" />
+  <Car Name="911 Carrera 4S Cabriolet" Combines="26" />
+  <Car Name="911 Carrera Cabriolet" Combines="28" />
+  <Car Name="911 Carrera Cabriolet" Combines="27" />
+  <Car Name="911 Carrera GTS" Combines="26" />
+  <Car Name="911 Carrera GTS" Combines="26" />
+  <Car Name="911 Carrera GTS Cabriolet" Combines="26" />
+  <Car Name="911 Carrera GTS Cabriolet" Combines="25" />
+  <Car Name="911 Carrera S" Combines="27" />
+  <Car Name="911 Carrera S" Combines="27" />
+  <Car Name="911 Carrera S Cabriolet" Combines="27" />
+  <Car Name="911 Carrera S Cabriolet" Combines="27" />
+  <Car Name="911 Targa 4" Combines="26" />
+  <Car Name="911 Targa 4" Combines="26" />
+  <Car Name="911 Targa 4 GTS" Combines="25" />
+  <Car Name="911 Targa 4 GTS" Combines="26" />
+  <Car Name="911 Targa 4S" Combines="25" />
+  <Car Name="911 Targa 4S" Combines="26" />
+  <Car Name="911 Turbo" Combines="24" />
+  <Car Name="911 Turbo Cabriolet" Combines="24" />
+  <Car Name="911 Turbo S" Combines="24" />
+  <Car Name="911 Turbo S Cabriolet" Combines="24" />
+  <Car Name="FR-S" Combines="34" />
+  <Car Name="FR-S" Combines="30" />
+  <Car Name="BRZ" Combines="34" />
+  <Car Name="BRZ" Combines="30" />
+  <Car Name="Rapide S" Combines="22" />
+  <Car Name="A3" Combines="33" />
+  <Car Name="A3 Cabriolet" Combines="35" />
+  <Car Name="A3 Cabriolet quattro" Combines="32" />
+  <Car Name="A3 quattro" Combines="33" />
+  <Car Name="A5 Cabriolet quattro" Combines="29" />
+  <Car Name="A5 quattro" Combines="30" />
+  <Car Name="A5 quattro" Combines="32" />
+  <Car Name="S3" Combines="31" />
+  <Car Name="S5" Combines="28" />
+  <Car Name="S5" Combines="26" />
+  <Car Name="S5 Cabriolet" Combines="26" />
+  <Car Name="TT Coupe quattro" Combines="30" />
+  <Car Name="TTS Coupe" Combines="27" />
+  <Car Name="Continental GT Convertible" Combines="24" />
+  <Car Name="Continental GT Convertible" Combines="20" />
+  <Car Name="228i" Combines="35" />
+  <Car Name="228i" Combines="34" />
+  <Car Name="228i Convertible" Combines="34" />
+  <Car Name="228i xDrive" Combines="35" />
+  <Car Name="228i xDrive Convertible" Combines="34" />
+  <Car Name="428i Convertible" Combines="34" />
+  <Car Name="428i xDrive Convertible" Combines="33" />
+  <Car Name="435i Convertible" Combines="31" />
+  <Car Name="435i xDrive Convertible" Combines="29" />
+  <Car Name="640i Convertible" Combines="31" />
+  <Car Name="640i Coupe" Combines="31" />
+  <Car Name="640i xDrive Convertible" Combines="29" />
+  <Car Name="640i xDrive Coupe" Combines="29" />
+  <Car Name="650i Convertible" Combines="25" />
+  <Car Name="650i Coupe" Combines="25" />
+  <Car Name="650i xDrive Convertible" Combines="24" />
+  <Car Name="650i xDrive Coupe" Combines="25" />
+  <Car Name="M2" Combines="27" />
+  <Car Name="M2" Combines="26" />
+  <Car Name="M235i" Combines="31" />
+  <Car Name="M235i" Combines="28" />
+  <Car Name="M235i Convertible" Combines="31" />
+  <Car Name="M235i Convertible" Combines="26" />
+  <Car Name="M235i xDrive" Combines="30" />
+  <Car Name="M235i xDrive Convertible" Combines="30" />
+  <Car Name="M4 Convertible" Combines="24" />
+  <Car Name="M4 Convertible" Combines="26" />
+  <Car Name="M6 Convertible" Combines="20" />
+  <Car Name="M6 Convertible" Combines="22" />
+  <Car Name="M6 Coupe" Combines="20" />
+  <Car Name="M6 Coupe" Combines="22" />
+  <Car Name="CASCADA" Combines="27" />
+  <Car Name="SPARK" Combines="41" />
+  <Car Name="SPARK" Combines="41" />
+  <Car Name="Fiesta FWD" Combines="37" />
+  <Car Name="Fiesta FWD" Combines="36" />
+  <Car Name="Fiesta SFE FWD" Combines="43" />
+  <Car Name="MUSTANG" Combines="32" />
+  <Car Name="MUSTANG" Combines="31" />
+  <Car Name="MUSTANG" Combines="28" />
+  <Car Name="MUSTANG" Combines="28" />
+  <Car Name="MUSTANG" Combines="25" />
+  <Car Name="MUSTANG" Combines="25" />
+  <Car Name="MUSTANG CONVERTIBLE" Combines="29" />
+  <Car Name="MUSTANG CONVERTIBLE" Combines="24" />
+  <Car Name="SHELBY GT350 MUSTANG" Combines="21" />
+  <Car Name="Genesis Coupe" Combines="25" />
+  <Car Name="Genesis Coupe" Combines="24" />
+  <Car Name="RC 200t" Combines="32" />
+  <Car Name="RC 300 AWD" Combines="26" />
+  <Car Name="RC 350" Combines="28" />
+  <Car Name="RC 350 AWD" Combines="26" />
+  <Car Name="RC F" Combines="25" />
+  <Car Name="GRANTURISMO" Combines="21" />
+  <Car Name="GRANTURISMO CONVERTIBLE" Combines="20" />
+  <Car Name="E 400 (convertible)" Combines="29" />
+  <Car Name="E 400 (coupe)" Combines="29" />
+  <Car Name="E 400 4MATIC (coupe)" Combines="28" />
+  <Car Name="E 550 (convertible)" Combines="26" />
+  <Car Name="E 550 (coupe)" Combines="26" />
+  <Car Name="MINI COOPER HARDTOP 2 DOOR" Combines="37" />
+  <Car Name="MINI COOPER HARDTOP 2 DOOR" Combines="39" />
+  <Car Name="MINI COOPER HARDTOP 4 DOOR" Combines="37" />
+  <Car Name="MINI COOPER HARDTOP 4 DOOR" Combines="39" />
+  <Car Name="Mini Cooper S Hardtop 2 door" Combines="33" />
+  <Car Name="Mini Cooper S Hardtop 2 door" Combines="33" />
+  <Car Name="Mini Cooper S Hardtop 4 door" Combines="33" />
+  <Car Name="Mini Cooper S Hardtop 4 door" Combines="33" />
+  <Car Name="MINI John Cooper Works Hardtop" Combines="31" />
+  <Car Name="MINI John Cooper Works Hardtop" Combines="31" />
+  <Car Name="GT-R" Combines="22" />
+  <Car Name="Roush Stage 3 Mustang" Combines="23" />
+  <Car Name="Roush Stage 3 Mustang" Combines="23" />
+  <Car Name="iA" Combines="42" />
+  <Car Name="iA" Combines="41" />
+  <Car Name="Beetle Convertible" Combines="34" />
+  <Car Name="Beetle Convertible" Combines="31" />
+  <Car Name="Beetle Convertible" Combines="31" />
+  <Car Name="Eos" Combines="30" />
+  <Car Name="ILX" Combines="36" />
+  <Car Name="TLX 2WD" Combines="35" />
+  <Car Name="TLX 2WD" Combines="34" />
+  <Car Name="TLX 4WD" Combines="31" />
+  <Car Name="A4" Combines="31" />
+  <Car Name="A4 quattro" Combines="30" />
+  <Car Name="A4 quattro" Combines="32" />
+  <Car Name="Q3" Combines="29" />
+  <Car Name="Q3 quattro" Combines="28" />
+  <Car Name="S4" Combines="28" />
+  <Car Name="S4" Combines="26" />
+  <Car Name="Continental GT" Combines="25" />
+  <Car Name="Continental GT" Combines="21" />
+  <Car Name="320i" Combines="36" />
+  <Car Name="320i" Combines="36" />
+  <Car Name="320i xDrive" Combines="35" />
+  <Car Name="328d" Combines="42" />
+  <Car Name="328d xDrive" Combines="40" />
+  <Car Name="328i" Combines="35" />
+  <Car Name="328i" Combines="34" />
+  <Car Name="328i xDrive" Combines="34" />
+  <Car Name="340i" Combines="33" />
+  <Car Name="340i" Combines="30" />
+  <Car Name="340i xDrive" Combines="33" />
+  <Car Name="340i xDrive" Combines="29" />
+  <Car Name="428i Coupe" Combines="35" />
+  <Car Name="428i Coupe" Combines="34" />
+  <Car Name="428i Gran Coupe" Combines="34" />
+  <Car Name="428i xDrive Coupe" Combines="34" />
+  <Car Name="428i xDrive Gran Coupe" Combines="34" />
+  <Car Name="435i Coupe" Combines="31" />
+  <Car Name="435i Coupe" Combines="30" />
+  <Car Name="435i Gran Coupe" Combines="31" />
+  <Car Name="435i xDrive Coupe" Combines="30" />
+  <Car Name="435i xDrive Coupe" Combines="28" />
+  <Car Name="435i xDrive Gran Coupe" Combines="30" />
+  <Car Name="640i Gran Coupe" Combines="31" />
+  <Car Name="640i xDrive Gran Coupe" Combines="29" />
+  <Car Name="650i Gran Coupe" Combines="25" />
+  <Car Name="650i xDrive Gran Coupe" Combines="24" />
+  <Car Name="Alpina B6 Gran Coupe xDrive" Combines="24" />
+  <Car Name="M3" Combines="24" />
+  <Car Name="M3" Combines="26" />
+  <Car Name="M4 Coupe" Combines="24" />
+  <Car Name="M4 Coupe" Combines="26" />
+  <Car Name="M6 Gran Coupe" Combines="20" />
+  <Car Name="M6 Gran Coupe" Combines="22" />
+  <Car Name="VERANO" Combines="30" />
+  <Car Name="VERANO" Combines="31" />
+  <Car Name="VERANO" Combines="32" />
+  <Car Name="ATS" Combines="31" />
+  <Car Name="ATS" Combines="29" />
+  <Car Name="ATS" Combines="32" />
+  <Car Name="ATS" Combines="30" />
+  <Car Name="ATS AWD" Combines="30" />
+  <Car Name="ATS AWD" Combines="28" />
+  <Car Name="ATS-V" Combines="24" />
+  <Car Name="ATS-V" Combines="23" />
+  <Car Name="CAMARO" Combines="31" />
+  <Car Name="CAMARO" Combines="30" />
+  <Car Name="CAMARO" Combines="28" />
+  <Car Name="CAMARO" Combines="27" />
+  <Car Name="CAMARO" Combines="28" />
+  <Car Name="CAMARO" Combines="25" />
+  <Car Name="CRUZE" Combines="42" />
+  <Car Name="CRUZE" Combines="41" />
+  <Car Name="CRUZE PREMIER" Combines="40" />
+  <Car Name="SONIC" Combines="37" />
+  <Car Name="SONIC" Combines="40" />
+  <Car Name="SONIC" Combines="35" />
+  <Car Name="SONIC" Combines="35" />
+  <Car Name="SONIC RS" Combines="33" />
+  <Car Name="SONIC RS" Combines="34" />
+  <Car Name="Fiesta ST FWD" Combines="33" />
+  <Car Name="FOCUS FWD" Combines="40" />
+  <Car Name="FOCUS FWD" Combines="42" />
+  <Car Name="FOCUS FWD" Combines="40" />
+  <Car Name="FOCUS FWD" Combines="38" />
+  <Car Name="FOCUS FWD" Combines="36" />
+  <Car Name="Focus FWD FFV" Combines="40" />
+  <Car Name="Focus FWD FFV" Combines="38" />
+  <Car Name="Focus FWD FFV" Combines="36" />
+  <Car Name="CIVIC 2Dr" Combines="41" />
+  <Car Name="CIVIC 2Dr" Combines="41" />
+  <Car Name="CIVIC 2Dr" Combines="38" />
+  <Car Name="Accent" Combines="37" />
+  <Car Name="Accent" Combines="38" />
+  <Car Name="Veloster" Combines="33" />
+  <Car Name="Veloster" Combines="36" />
+  <Car Name="Veloster" Combines="33" />
+  <Car Name="Veloster" Combines="35" />
+  <Car Name="Q50 HYBRID" Combines="34" />
+  <Car Name="Q50 HYBRID AWD" Combines="31" />
+  <Car Name="Forte Koup" Combines="30" />
+  <Car Name="Forte Koup" Combines="29" />
+  <Car Name="Forte Koup" Combines="34" />
+  <Car Name="Forte Koup" Combines="33" />
+  <Car Name="Rio" Combines="37" />
+  <Car Name="Rio" Combines="38" />
+  <Car Name="Rio ECO" Combines="37" />
+  <Car Name="CT 200h" Combines="40" />
+  <Car Name="GS F" Combines="24" />
+  <Car Name="IS 200t" Combines="33" />
+  <Car Name="IS 300 AWD" Combines="26" />
+  <Car Name="IS 350" Combines="28" />
+  <Car Name="IS 350 AWD" Combines="26" />
+  <Car Name="CX-3 2WD" Combines="35" />
+  <Car Name="CX-3 4WD" Combines="32" />
+  <Car Name="MAZDA 2" Combines="43" />
+  <Car Name="MAZDA 2" Combines="42" />
+  <Car Name="MAZDA3 4-Door" Combines="41" />
+  <Car Name="MAZDA3 4-Door" Combines="41" />
+  <Car Name="MAZDA3 4-Door" Combines="40" />
+  <Car Name="MAZDA3 4-Door" Combines="39" />
+  <Car Name="MAZDA3 4-Door" Combines="37" />
+  <Car Name="AMG C 63" Combines="25" />
+  <Car Name="AMG C 63 S" Combines="25" />
+  <Car Name="AMG CLA 45 4MATIC" Combines="31" />
+  <Car Name="AMG CLS 63 S 4MATIC" Combines="22" />
+  <Car Name="AMG S 63 4MATIC (coupe)" Combines="23" />
+  <Car Name="AMG S 65 (coupe)" Combines="20" />
+  <Car Name="C 300" Combines="34" />
+  <Car Name="C 300 4MATIC" Combines="31" />
+  <Car Name="C 450 AMG" Combines="29" />
+  <Car Name="CLA 250" Combines="38" />
+  <Car Name="CLA 250 4MATIC" Combines="33" />
+  <Car Name="CLA 250 4MATIC" Combines="33" />
+  <Car Name="CLS 400" Combines="30" />
+  <Car Name="CLS 400 4MATIC" Combines="26" />
+  <Car Name="CLS 550" Combines="26" />
+  <Car Name="CLS 550 4MATIC" Combines="25" />
+  <Car Name="S 550 4MATIC (coupe)" Combines="24" />
+  <Car Name="Mini Cooper Countryman" Combines="30" />
+  <Car Name="Mini Cooper Countryman" Combines="32" />
+  <Car Name="Mini Cooper Paceman" Combines="30" />
+  <Car Name="Mini Cooper Paceman" Combines="32" />
+  <Car Name="Mini Cooper S Countryman" Combines="32" />
+  <Car Name="Mini Cooper S Countryman" Combines="32" />
+  <Car Name="Mini Cooper S Countryman All4" Combines="30" />
+  <Car Name="Mini Cooper S Countryman All4" Combines="31" />
+  <Car Name="Mini Cooper S Paceman" Combines="32" />
+  <Car Name="Mini Cooper S Paceman" Combines="32" />
+  <Car Name="Mini Cooper S Paceman ALL4" Combines="30" />
+  <Car Name="Mini Cooper S Paceman ALL4" Combines="31" />
+  <Car Name="Mini JCW Countryman ALL4" Combines="30" />
+  <Car Name="Mini JCW Countryman ALL4" Combines="31" />
+  <Car Name="Mini JCW Paceman ALL4" Combines="30" />
+  <Car Name="Mini JCW Paceman ALL4" Combines="31" />
+  <Car Name="LANCER" Combines="35" />
+  <Car Name="LANCER" Combines="34" />
+  <Car Name="LANCER" Combines="31" />
+  <Car Name="LANCER" Combines="31" />
+  <Car Name="LANCER 4WD" Combines="31" />
+  <Car Name="VERSA" Combines="35" />
+  <Car Name="VERSA" Combines="40" />
+  <Car Name="VERSA" Combines="36" />
+  <Car Name="Dawn" Combines="19" />
+  <Car Name="Phantom Coupe" Combines="19" />
+  <Car Name="Phantom Drophead Coupe" Combines="19" />
+  <Car Name="tC" Combines="31" />
+  <Car Name="tC" Combines="31" />
+  <Car Name="IMPREZA" Combines="37" />
+  <Car Name="IMPREZA" Combines="34" />
+  <Car Name="WRX" Combines="24" />
+  <Car Name="WRX" Combines="27" />
+  <Car Name="WRX" Combines="23" />
+  <Car Name="PRIUS c" Combines="46" />
+  <Car Name="YARIS" Combines="36" />
+  <Car Name="YARIS" Combines="37" />
+  <Car Name="Beetle" Combines="34" />
+  <Car Name="Beetle" Combines="34" />
+  <Car Name="Beetle" Combines="31" />
+  <Car Name="Beetle" Combines="31" />
+  <Car Name="Beetle Dune" Combines="31" />
+  <Car Name="CC" Combines="31" />
+  <Car Name="CC" Combines="32" />
+  <Car Name="CC 4Motion" Combines="25" />
+  <Car Name="Golf" Combines="36" />
+  <Car Name="Golf" Combines="37" />
+  <Car Name="Golf R" Combines="30" />
+  <Car Name="Golf R" Combines="31" />
+  <Car Name="GTI" Combines="33" />
+  <Car Name="GTI" Combines="34" />
+  <Car Name="Jetta" Combines="39" />
+  <Car Name="Jetta" Combines="40" />
+  <Car Name="Jetta" Combines="36" />
+  <Car Name="Jetta" Combines="37" />
+  <Car Name="Jetta" Combines="33" />
+  <Car Name="Jetta" Combines="33" />
+  <Car Name="Jetta Hybrid" Combines="48" />
+  <Car Name="S60 AWD" Combines="31" />
+  <Car Name="S60 AWD" Combines="29" />
+  <Car Name="S60 AWD" Combines="27" />
+  <Car Name="S60 CC AWD" Combines="28" />
+  <Car Name="S60 FWD" Combines="38" />
+  <Car Name="S60 FWD" Combines="33" />
+  <Car Name="S60 Inscription AWD" Combines="29" />
+  <Car Name="S60 Inscription FWD" Combines="37" />
+  <Car Name="S60 Polestar AWD" Combines="27" />
+  <Car Name="RLX" Combines="32" />
+  <Car Name="RLX" Combines="31" />
+  <Car Name="A6" Combines="35" />
+  <Car Name="A6 quattro" Combines="32" />
+  <Car Name="A6 quattro" Combines="38" />
+  <Car Name="A6 quattro" Combines="30" />
+  <Car Name="A7 quattro" Combines="38" />
+  <Car Name="A7 quattro" Combines="30" />
+  <Car Name="RS7" Combines="25" />
+  <Car Name="S6" Combines="27" />
+  <Car Name="S7" Combines="27" />
+  <Car Name="S8" Combines="25" />
+  <Car Name="Flying Spur" Combines="24" />
+  <Car Name="Flying Spur" Combines="20" />
+  <Car Name="Mulsanne" Combines="18" />
+  <Car Name="528i" Combines="34" />
+  <Car Name="528i xDrive" Combines="34" />
+  <Car Name="535d" Combines="38" />
+  <Car Name="535d xDrive" Combines="37" />
+  <Car Name="535i" Combines="31" />
+  <Car Name="535i xDrive" Combines="29" />
+  <Car Name="550i" Combines="25" />
+  <Car Name="550i xDrive" Combines="25" />
+  <Car Name="ActiveHybrid 5" Combines="30" />
+  <Car Name="M5" Combines="20" />
+  <Car Name="M5" Combines="22" />
+  <Car Name="LACROSSE" Combines="36" />
+  <Car Name="LACROSSE" Combines="28" />
+  <Car Name="LACROSSE" Combines="28" />
+  <Car Name="LACROSSE AWD" Combines="26" />
+  <Car Name="REGAL" Combines="30" />
+  <Car Name="REGAL" Combines="31" />
+  <Car Name="REGAL" Combines="36" />
+  <Car Name="REGAL" Combines="31" />
+  <Car Name="REGAL AWD" Combines="27" />
+  <Car Name="CTS SEDAN" Combines="31" />
+  <Car Name="CTS SEDAN" Combines="30" />
+  <Car Name="CTS SEDAN" Combines="24" />
+  <Car Name="CTS SEDAN AWD" Combines="29" />
+  <Car Name="CTS SEDAN AWD" Combines="28" />
+  <Car Name="CTS-V" Combines="21" />
+  <Car Name="CRUZE LIMITED" Combines="38" />
+  <Car Name="CRUZE LIMITED" Combines="38" />
+  <Car Name="CRUZE LIMITED" Combines="35" />
+  <Car Name="CRUZE LIMITED" Combines="36" />
+  <Car Name="CRUZE LIMITED ECO" Combines="39" />
+  <Car Name="CRUZE LIMITED ECO" Combines="42" />
+  <Car Name="Impala Bi-Fuel (CNG)" Combines="25" />
+  <Car Name="MALIBU" Combines="37" />
+  <Car Name="MALIBU" Combines="46" />
+  <Car Name="MALIBU" Combines="33" />
+  <Car Name="MALIBU LIMITED" Combines="34" />
+  <Car Name="SONIC 5 RS" Combines="33" />
+  <Car Name="SONIC 5 RS" Combines="34" />
+  <Car Name="200" Combines="36" />
+  <Car Name="200" Combines="36" />
+  <Car Name="200" Combines="32" />
+  <Car Name="200 AWD" Combines="29" />
+  <Car Name="Challenger" Combines="30" />
+  <Car Name="Challenger" Combines="25" />
+  <Car Name="Challenger" Combines="23" />
+  <Car Name="Challenger" Combines="25" />
+  <Car Name="Challenger" Combines="23" />
+  <Car Name="Challenger SRT8" Combines="22" />
+  <Car Name="Challenger SRT8" Combines="21" />
+  <Car Name="Challenger SRT8" Combines="25" />
+  <Car Name="Challenger SRT8" Combines="23" />
+  <Car Name="Dart" Combines="37" />
+  <Car Name="Dart" Combines="34" />
+  <Car Name="Dart" Combines="36" />
+  <Car Name="Dart" Combines="35" />
+  <Car Name="Dart" Combines="35" />
+  <Car Name="Dart Aero" Combines="40" />
+  <Car Name="Dart Aero" Combines="41" />
+  <Car Name="Dart GT" Combines="31" />
+  <Car Name="Dart GT" Combines="33" />
+  <Car Name="FF" Combines="17" />
+  <Car Name="FF" Combines="16" />
+  <Car Name="FOCUS RS AWD" Combines="25" />
+  <Car Name="Focus ST FWD" Combines="31" />
+  <Car Name="FUSION AWD" Combines="31" />
+  <Car Name="FUSION FWD" Combines="36" />
+  <Car Name="FUSION FWD" Combines="37" />
+  <Car Name="FUSION FWD" Combines="33" />
+  <Car Name="FUSION FWD" Combines="34" />
+  <Car Name="FUSION HYBRID FWD" Combines="41" />
+  <Car Name="ACCORD" Combines="37" />
+  <Car Name="ACCORD" Combines="35" />
+  <Car Name="ACCORD" Combines="34" />
+  <Car Name="ACCORD" Combines="34" />
+  <Car Name="ACCORD" Combines="32" />
+  <Car Name="ACCORD" Combines="28" />
+  <Car Name="CIVIC 4Dr" Combines="42" />
+  <Car Name="CIVIC 4Dr" Combines="41" />
+  <Car Name="CIVIC 4Dr" Combines="40" />
+  <Car Name="Elantra" Combines="38" />
+  <Car Name="Elantra" Combines="37" />
+  <Car Name="Elantra" Combines="35" />
+  <Car Name="Elantra" Combines="34" />
+  <Car Name="Elantra GT" Combines="33" />
+  <Car Name="Elantra GT" Combines="33" />
+  <Car Name="Elantra Limited" Combines="37" />
+  <Car Name="Sonata HYBRID" Combines="43" />
+  <Car Name="Sonata HYBRID SE" Combines="44" />
+  <Car Name="Q50" Combines="31" />
+  <Car Name="Q50" Combines="28" />
+  <Car Name="Q50 AWD" Combines="28" />
+  <Car Name="Q50 AWD" Combines="27" />
+  <Car Name="Q50S" Combines="28" />
+  <Car Name="Q50S AWD" Combines="26" />
+  <Car Name="Q50S AWD Red Sport" Combines="26" />
+  <Car Name="Q50S Red Sport" Combines="26" />
+  <Car Name="Q70" Combines="26" />
+  <Car Name="Q70" Combines="24" />
+  <Car Name="Q70 AWD" Combines="24" />
+  <Car Name="Q70 AWD" Combines="23" />
+  <Car Name="Q70 HYBRID" Combines="34" />
+  <Car Name="XF" Combines="30" />
+  <Car Name="XF AWD" Combines="28" />
+  <Car Name="Forte" Combines="39" />
+  <Car Name="Forte" Combines="37" />
+  <Car Name="Forte" Combines="35" />
+  <Car Name="Optima HYBRID" Combines="40" />
+  <Car Name="Optima HYBRID EX" Combines="39" />
+  <Car Name="ES 300h" Combines="39" />
+  <Car Name="ES 350" Combines="31" />
+  <Car Name="GS 200t" Combines="33" />
+  <Car Name="GS 200t F SPORT" Combines="30" />
+  <Car Name="GS 350" Combines="29" />
+  <Car Name="GS 350 AWD" Combines="26" />
+  <Car Name="GS 350 F SPORT" Combines="28" />
+  <Car Name="GS 450h" Combines="34" />
+  <Car Name="LS 460" Combines="24" />
+  <Car Name="LS 460 AWD" Combines="23" />
+  <Car Name="LS 460 L" Combines="24" />
+  <Car Name="LS 460 L AWD" Combines="23" />
+  <Car Name="LS 600h L" Combines="23" />
+  <Car Name="MKZ AWD" Combines="31" />
+  <Car Name="MKZ AWD" Combines="24" />
+  <Car Name="MKZ FWD" Combines="33" />
+  <Car Name="MKZ FWD" Combines="27" />
+  <Car Name="MKZ HYBRID FWD" Combines="39" />
+  <Car Name="Ghibli  S RWD" Combines="24" />
+  <Car Name="Ghibli V6 Rear Wheel Drive (RWD)" Combines="24" />
+  <Car Name="Ghibli V6 SQ4 AWD" Combines="24" />
+  <Car Name="MAZDA 6" Combines="40" />
+  <Car Name="MAZDA 6" Combines="38" />
+  <Car Name="MAZDA 6" Combines="37" />
+  <Car Name="MAZDA3 5-Door" Combines="40" />
+  <Car Name="MAZDA3 5-Door" Combines="40" />
+  <Car Name="MAZDA3 5-Door" Combines="39" />
+  <Car Name="MAZDA3 5-Door" Combines="37" />
+  <Car Name="MAZDA3 5-Door" Combines="35" />
+  <Car Name="AMG E 63 4MATIC" Combines="23" />
+  <Car Name="AMG E 63 S 4MATIC" Combines="22" />
+  <Car Name="E 250 BLUETEC" Combines="42" />
+  <Car Name="E 250 BLUETEC 4MATIC" Combines="38" />
+  <Car Name="E 350" Combines="29" />
+  <Car Name="E 350" Combines="29" />
+  <Car Name="E 350 4MATIC" Combines="28" />
+  <Car Name="E 350 4MATIC" Combines="28" />
+  <Car Name="E 400" Combines="29" />
+  <Car Name="E 400 4MATIC" Combines="28" />
+  <Car Name="E 550 4MATIC" Combines="24" />
+  <Car Name="Mini Cooper Clubman" Combines="34" />
+  <Car Name="Mini Cooper Clubman" Combines="35" />
+  <Car Name="Mini Cooper S Clubman" Combines="34" />
+  <Car Name="Mini Cooper S Clubman" Combines="32" />
+  <Car Name="ALTIMA" Combines="39" />
+  <Car Name="ALTIMA 3.5" Combines="32" />
+  <Car Name="ALTIMA SR" Combines="37" />
+  <Car Name="MAXIMA" Combines="30" />
+  <Car Name="SENTRA" Combines="38" />
+  <Car Name="SENTRA" Combines="36" />
+  <Car Name="SENTRA FE+" Combines="40" />
+  <Car Name="Wraith" Combines="21" />
+  <Car Name="iM" Combines="37" />
+  <Car Name="iM" Combines="36" />
+  <Car Name="LEGACY" Combines="36" />
+  <Car Name="LEGACY" Combines="29" />
+  <Car Name="AVALON" Combines="31" />
+  <Car Name="AVALON HYBRID" Combines="39" />
+  <Car Name="CAMRY" Combines="35" />
+  <Car Name="CAMRY" Combines="31" />
+  <Car Name="CAMRY HYBRID LE" Combines="39" />
+  <Car Name="CAMRY HYBRID XLE/SE" Combines="38" />
+  <Car Name="COROLLA" Combines="36" />
+  <Car Name="COROLLA" Combines="38" />
+  <Car Name="COROLLA" Combines="37" />
+  <Car Name="COROLLA" Combines="37" />
+  <Car Name="COROLLA LE ECO" Combines="42" />
+  <Car Name="COROLLA LE ECO" Combines="40" />
+  <Car Name="PRIUS" Combines="50" />
+  <Car Name="PRIUS Eco" Combines="53" />
+  <Car Name="Passat" Combines="38" />
+  <Car Name="Passat" Combines="28" />
+  <Car Name="S80 FWD" Combines="37" />
+  <Car Name="A8L" Combines="36" />
+  <Car Name="A8L" Combines="29" />
+  <Car Name="A8L" Combines="29" />
+  <Car Name="A8L" Combines="22" />
+  <Car Name="328i xDrive Gran Turismo" Combines="34" />
+  <Car Name="335i xDrive Gran Turismo" Combines="30" />
+  <Car Name="535i Gran Turismo" Combines="28" />
+  <Car Name="535i xDrive Gran Turismo" Combines="26" />
+  <Car Name="740i" Combines="29" />
+  <Car Name="750i" Combines="25" />
+  <Car Name="750i xDrive" Combines="25" />
+  <Car Name="X1 xDrive28i" Combines="32" />
+  <Car Name="CT6" Combines="31" />
+  <Car Name="CT6 AWD" Combines="26" />
+  <Car Name="CT6 AWD" Combines="27" />
+  <Car Name="XTS" Combines="28" />
+  <Car Name="XTS AWD" Combines="26" />
+  <Car Name="XTS AWD" Combines="23" />
+  <Car Name="IMPALA" Combines="31" />
+  <Car Name="IMPALA" Combines="28" />
+  <Car Name="IMPALA" Combines="29" />
+  <Car Name="IMPALA LIMITED" Combines="30" />
+  <Car Name="SS" Combines="20" />
+  <Car Name="SS" Combines="22" />
+  <Car Name="300" Combines="31" />
+  <Car Name="300" Combines="31" />
+  <Car Name="300" Combines="25" />
+  <Car Name="300 AWD" Combines="27" />
+  <Car Name="300 AWD" Combines="27" />
+  <Car Name="Charger" Combines="31" />
+  <Car Name="Charger" Combines="31" />
+  <Car Name="Charger" Combines="25" />
+  <Car Name="Charger" Combines="25" />
+  <Car Name="Charger AWD" Combines="27" />
+  <Car Name="Charger AWD" Combines="27" />
+  <Car Name="Charger SRT8" Combines="22" />
+  <Car Name="Charger SRT8" Combines="25" />
+  <Car Name="C-MAX Hybrid FWD" Combines="37" />
+  <Car Name="Special Service Police FWD" Combines="28" />
+  <Car Name="TAURUS AWD" Combines="24" />
+  <Car Name="TAURUS AWD" Combines="24" />
+  <Car Name="TAURUS AWD FFV" Combines="24" />
+  <Car Name="TAURUS FWD" Combines="29" />
+  <Car Name="TAURUS FWD" Combines="27" />
+  <Car Name="TAURUS FWD FFV" Combines="27" />
+  <Car Name="Azera" Combines="29" />
+  <Car Name="Azera Limited" Combines="28" />
+  <Car Name="Equus" Combines="23" />
+  <Car Name="Genesis AWD" Combines="25" />
+  <Car Name="Genesis RWD" Combines="29" />
+  <Car Name="Genesis RWD" Combines="23" />
+  <Car Name="Sonata" Combines="38" />
+  <Car Name="Sonata" Combines="32" />
+  <Car Name="Sonata" Combines="38" />
+  <Car Name="Sonata Limited" Combines="31" />
+  <Car Name="Sonata SPORT/LIMITED" Combines="36" />
+  <Car Name="XJ" Combines="27" />
+  <Car Name="XJ" Combines="23" />
+  <Car Name="XJ AWD" Combines="26" />
+  <Car Name="XJL" Combines="27" />
+  <Car Name="XJL" Combines="23" />
+  <Car Name="XJL AWD" Combines="25" />
+  <Car Name="Cadenza" Combines="28" />
+  <Car Name="Forte 5" Combines="29" />
+  <Car Name="Forte 5" Combines="29" />
+  <Car Name="Forte 5" Combines="33" />
+  <Car Name="K900" Combines="26" />
+  <Car Name="K900" Combines="23" />
+  <Car Name="Optima" Combines="39" />
+  <Car Name="Optima" Combines="32" />
+  <Car Name="Optima" Combines="35" />
+  <Car Name="Optima FE" Combines="32" />
+  <Car Name="Optima FE" Combines="37" />
+  <Car Name="MKS AWD" Combines="24" />
+  <Car Name="MKS AWD" Combines="24" />
+  <Car Name="MKS FWD" Combines="26" />
+  <Car Name="QUATTROPORTE GTS" Combines="22" />
+  <Car Name="QUATTROPORTE S" Combines="23" />
+  <Car Name="QUATTROPORTE SQ4 V6" Combines="23" />
+  <Car Name="AMG S 63 4MATIC" Combines="23" />
+  <Car Name="AMG S 65" Combines="20" />
+  <Car Name="Maybach S 600" Combines="20" />
+  <Car Name="S 550" Combines="26" />
+  <Car Name="S 550 4MATIC" Combines="26" />
+  <Car Name="S 600" Combines="21" />
+  <Car Name="Panamera" Combines="28" />
+  <Car Name="Panamera 4" Combines="27" />
+  <Car Name="Panamera 4S" Combines="27" />
+  <Car Name="Panamera 4S Executive" Combines="26" />
+  <Car Name="Panamera GTS" Combines="24" />
+  <Car Name="Panamera S" Combines="27" />
+  <Car Name="Panamera Turbo" Combines="24" />
+  <Car Name="Panamera Turbo Executive" Combines="24" />
+  <Car Name="Panamera Turbo S" Combines="24" />
+  <Car Name="Panamera Turbo S Executive" Combines="24" />
+  <Car Name="Ghost" Combines="21" />
+  <Car Name="Ghost EWB" Combines="21" />
+  <Car Name="Phantom" Combines="19" />
+  <Car Name="Phantom EWB" Combines="19" />
+  <Car Name="allroad quattro" Combines="28" />
+  <Car Name="328d xDrive Sports Wagon" Combines="40" />
+  <Car Name="328i xDrive Sports Wagon" Combines="34" />
+  <Car Name="SONIC 5" Combines="37" />
+  <Car Name="SONIC 5" Combines="40" />
+  <Car Name="SONIC 5" Combines="35" />
+  <Car Name="SONIC 5" Combines="35" />
+  <Car Name="500L" Combines="30" />
+  <Car Name="500L" Combines="33" />
+  <Car Name="FIT" Combines="41" />
+  <Car Name="FIT" Combines="38" />
+  <Car Name="FIT" Combines="37" />
+  <Car Name="QX50" Combines="24" />
+  <Car Name="QX50 AWD" Combines="24" />
+  <Car Name="Soul" Combines="30" />
+  <Car Name="Soul" Combines="30" />
+  <Car Name="Soul" Combines="31" />
+  <Car Name="Soul ECO dynamics" Combines="31" />
+  <Car Name="JUKE" Combines="32" />
+  <Car Name="JUKE" Combines="34" />
+  <Car Name="JUKE AWD" Combines="31" />
+  <Car Name="JUKE NISMO RS" Combines="31" />
+  <Car Name="JUKE NISMO RS AWD" Combines="29" />
+  <Car Name="IMPREZA SPORT" Combines="36" />
+  <Car Name="IMPREZA SPORT" Combines="33" />
+  <Car Name="IMPREZA WAGON" Combines="37" />
+  <Car Name="IMPREZA WAGON" Combines="34" />
+  <Car Name="Golf SportWagen" Combines="35" />
+  <Car Name="Golf SportWagen" Combines="36" />
+  <Car Name="V60 AWD" Combines="31" />
+  <Car Name="V60 AWD" Combines="29" />
+  <Car Name="V60 AWD" Combines="27" />
+  <Car Name="V60 FWD" Combines="37" />
+  <Car Name="V60 Polestar AWD" Combines="27" />
+  <Car Name="V60CC AWD" Combines="28" />
+  <Car Name="AMG E 63 S 4MATIC (stat. wagon)" Combines="21" />
+  <Car Name="AMG GLA 45 4MATIC" Combines="29" />
+  <Car Name="E 350 4Matic (Wagon)" Combines="27" />
+  <Car Name="GLA 250" Combines="35" />
+  <Car Name="MURANO AWD" Combines="28" />
+  <Car Name="MURANO FWD" Combines="28" />
+  <Car Name="MURANO Hybrid AWD" Combines="30" />
+  <Car Name="MURANO Hybrid FWD" Combines="31" />
+  <Car Name="PRIUS v" Combines="40" />
+  <Car Name="COLORADO 2WD" Combines="27" />
+  <Car Name="COLORADO 2WD" Combines="26" />
+  <Car Name="COLORADO 2WD" Combines="31" />
+  <Car Name="COLORADO 2WD" Combines="26" />
+  <Car Name="CANYON 2WD" Combines="27" />
+  <Car Name="CANYON 2WD" Combines="26" />
+  <Car Name="CANYON 2WD" Combines="31" />
+  <Car Name="CANYON 2WD" Combines="26" />
+  <Car Name="FRONTIER 2WD" Combines="23" />
+  <Car Name="FRONTIER 2WD" Combines="23" />
+  <Car Name="FRONTIER 2WD" Combines="22" />
+  <Car Name="FRONTIER 2WD" Combines="22" />
+  <Car Name="TACOMA 2WD" Combines="23" />
+  <Car Name="TACOMA 2WD" Combines="24" />
+  <Car Name="COLORADO 4WD" Combines="25" />
+  <Car Name="COLORADO 4WD" Combines="29" />
+  <Car Name="COLORADO 4WD" Combines="24" />
+  <Car Name="CANYON 4WD" Combines="25" />
+  <Car Name="CANYON 4WD" Combines="29" />
+  <Car Name="CANYON 4WD" Combines="24" />
+  <Car Name="FRONTIER 4WD" Combines="21" />
+  <Car Name="FRONTIER 4WD" Combines="21" />
+  <Car Name="TACOMA 4WD" Combines="22" />
+  <Car Name="TACOMA 4WD" Combines="21" />
+  <Car Name="TACOMA 4WD" Combines="23" />
+  <Car Name="TACOMA 4WD" Combines="21" />
+  <Car Name="Tacoma 4WD Double Cab" Combines="20" />
+  <Car Name="C15 SILVERADO 2WD" Combines="24" />
+  <Car Name="C15 SILVERADO 2WD" Combines="23" />
+  <Car Name="C15 SILVERADO 2WD" Combines="23" />
+  <Car Name="C15 SILVERADO 2WD" Combines="24" />
+  <Car Name="C15 SILVERADO 2WD" Combines="22" />
+  <Car Name="C15 SILVERADO 2WD" Combines="21" />
+  <Car Name="F150 2.7L 2WD GVWR&gt;6649 LBS PAYLOAD PACKAGE" Combines="24" />
+  <Car Name="F150 2WD" Combines="26" />
+  <Car Name="F150 2WD" Combines="24" />
+  <Car Name="F150 2WD FFV" Combines="25" />
+  <Car Name="F150 2WD FFV" Combines="22" />
+  <Car Name="F150 3.5L 2WD GVWR&gt;7599 LBS PAYLOAD PACKAGE" Combines="22" />
+  <Car Name="F150 5.0L 2WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE" Combines="20" />
+  <Car Name="C15 SIERRA 2WD" Combines="24" />
+  <Car Name="C15 SIERRA 2WD" Combines="23" />
+  <Car Name="C15 SIERRA 2WD" Combines="23" />
+  <Car Name="C15 SIERRA 2WD" Combines="24" />
+  <Car Name="C15 SIERRA 2WD" Combines="22" />
+  <Car Name="C15 SIERRA 2WD" Combines="21" />
+  <Car Name="1500 4X2" Combines="28" />
+  <Car Name="1500 4X2" Combines="25" />
+  <Car Name="1500 4X2" Combines="20" />
+  <Car Name="1500 4X2" Combines="22" />
+  <Car Name="1500 HFE 4X2" Combines="29" />
+  <Car Name="1500 HFE 4X2" Combines="25" />
+  <Car Name="F150 Pickup 2WD" Combines="15" />
+  <Car Name="TUNDRA 2WD" Combines="19" />
+  <Car Name="TUNDRA 2WD" Combines="18" />
+  <Car Name="TUNDRA 2WD FFV" Combines="18" />
+  <Car Name="K15 SILVERADO 4WD" Combines="22" />
+  <Car Name="K15 SILVERADO 4WD" Combines="22" />
+  <Car Name="K15 SILVERADO 4WD" Combines="22" />
+  <Car Name="K15 SILVERADO 4WD" Combines="21" />
+  <Car Name="K15 SILVERADO 4WD" Combines="21" />
+  <Car Name="K15 SILVERADO 4WD" Combines="21" />
+  <Car Name="F150 2.7L 4WD GVWR&gt;6799 LBS PAYLOAD PACKAGE" Combines="22" />
+  <Car Name="F150 3.5L 4WD GVWR&gt;7599 LBS PAYLOAD PACKAGE" Combines="20" />
+  <Car Name="F150 4WD" Combines="23" />
+  <Car Name="F150 4WD" Combines="22" />
+  <Car Name="F150 4WD FFV" Combines="23" />
+  <Car Name="F150 4WD FFV" Combines="21" />
+  <Car Name="F150 5.0L 4WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE" Combines="19" />
+  <Car Name="K15 SIERRA 4WD" Combines="22" />
+  <Car Name="K15 SIERRA 4WD" Combines="22" />
+  <Car Name="K15 SIERRA 4WD" Combines="22" />
+  <Car Name="K15 SIERRA 4WD" Combines="21" />
+  <Car Name="K15 SIERRA 4WD" Combines="21" />
+  <Car Name="K15 SIERRA 4WD" Combines="21" />
+  <Car Name="1500 4X4" Combines="27" />
+  <Car Name="1500 4X4" Combines="23" />
+  <Car Name="1500 4X4" Combines="19" />
+  <Car Name="1500 4X4" Combines="21" />
+  <Car Name="F150 Pickup 4WD" Combines="15" />
+  <Car Name="TUNDRA 4WD" Combines="18" />
+  <Car Name="TUNDRA 4WD" Combines="17" />
+  <Car Name="TUNDRA 4WD FFV" Combines="17" />
+  <Car Name="G2500 EXPRESS 2WD PASS MDPV" Combines="16" />
+  <Car Name="G3500 EXPRESS 2WD PASS MDPV" Combines="16" />
+  <Car Name="Transit T150 Wagon" Combines="19" />
+  <Car Name="Transit T150 Wagon FFV" Combines="18" />
+  <Car Name="G2500 SAVANA 2WD PASS MDPV" Combines="16" />
+  <Car Name="G3500 SAVANA 2WD PASS MDPV" Combines="16" />
+  <Car Name="XTS HEARSE" Combines="21" />
+  <Car Name="XTS LIMO" Combines="21" />
+  <Car Name="City Express Cargo Van" Combines="26" />
+  <Car Name="Transit Connect Van 2WD" Combines="29" />
+  <Car Name="Transit Connect Van 2WD" Combines="28" />
+  <Car Name="TRANSIT CONNECT VAN FFV" Combines="28" />
+  <Car Name="TRANSIT CONNECT WAGON FFV" Combines="27" />
+  <Car Name="TRANSIT CONNECT WAGON FWD" Combines="29" />
+  <Car Name="TRANSIT CONNECT WAGON FWD" Combines="27" />
+  <Car Name="TRANSIT CONNECT WAGON LWB FFV" Combines="27" />
+  <Car Name="Transit Connect Wagon LWB FWD" Combines="27" />
+  <Car Name="MKT LIVERY FWD" Combines="25" />
+  <Car Name="Metris (Cargo Van)" Combines="24" />
+  <Car Name="Metris (Passenger Van)" Combines="23" />
+  <Car Name="NV200 Cargo Van" Combines="26" />
+  <Car Name="NV200 NYC Taxi" Combines="26" />
+  <Car Name="Promaster City" Combines="29" />
+  <Car Name="MKT LIVERY AWD" Combines="23" />
+  <Car Name="C15 SILVERADO 2WD CAB CHASSIS" Combines="20" />
+  <Car Name="COLORADO CAB CHASSIS 2WD" Combines="17" />
+  <Car Name="K15 SILVERADO 4WD CAB CHASSIS" Combines="19" />
+  <Car Name="C15 SIERRA 2WD CAB CHASSIS" Combines="20" />
+  <Car Name="CANYON CAB CHASSIS 2WD" Combines="17" />
+  <Car Name="K15 SIERRA 4WD CAB CHASSIS" Combines="19" />
+  <Car Name="Town &amp; Country" Combines="25" />
+  <Car Name="Town &amp; Country" Combines="25" />
+  <Car Name="Grand Caravan" Combines="25" />
+  <Car Name="Grand Caravan" Combines="25" />
+  <Car Name="ODYSSEY 2WD" Combines="28" />
+  <Car Name="Sedona" Combines="24" />
+  <Car Name="Sedona SX" Combines="25" />
+  <Car Name="Sedona SXL" Combines="22" />
+  <Car Name="QUEST" Combines="27" />
+  <Car Name="SIENNA" Combines="25" />
+  <Car Name="SIENNA AWD" Combines="23" />
+  <Car Name="MDX 2WD" Combines="27" />
+  <Car Name="MDX 2WD" Combines="27" />
+  <Car Name="RDX 2WD" Combines="29" />
+  <Car Name="X3 sDrive 28i" Combines="28" />
+  <Car Name="ENCORE" Combines="34" />
+  <Car Name="ENCORE" Combines="33" />
+  <Car Name="EQUINOX FWD" Combines="32" />
+  <Car Name="EQUINOX FWD" Combines="32" />
+  <Car Name="EQUINOX FWD" Combines="24" />
+  <Car Name="TRAX" Combines="34" />
+  <Car Name="Journey" Combines="26" />
+  <Car Name="Journey" Combines="25" />
+  <Car Name="500X" Combines="34" />
+  <Car Name="500X" Combines="31" />
+  <Car Name="EDGE FWD" Combines="30" />
+  <Car Name="EDGE FWD" Combines="30" />
+  <Car Name="EDGE FWD" Combines="26" />
+  <Car Name="ESCAPE FWD" Combines="32" />
+  <Car Name="ESCAPE FWD" Combines="30" />
+  <Car Name="ESCAPE FWD" Combines="31" />
+  <Car Name="TERRAIN FWD" Combines="32" />
+  <Car Name="TERRAIN FWD" Combines="32" />
+  <Car Name="TERRAIN FWD" Combines="24" />
+  <Car Name="CR-V 2WD" Combines="33" />
+  <Car Name="HR-V 2WD" Combines="35" />
+  <Car Name="HR-V 2WD" Combines="35" />
+  <Car Name="HR-V 2WD" Combines="34" />
+  <Car Name="PILOT 2WD" Combines="27" />
+  <Car Name="PILOT 2WD" Combines="27" />
+  <Car Name="Santa Fe FWD" Combines="25" />
+  <Car Name="Santa Fe Sport FWD" Combines="27" />
+  <Car Name="Santa Fe Sport FWD" Combines="27" />
+  <Car Name="Santa Fe Sport ULTIMATE FWD" Combines="26" />
+  <Car Name="Santa Fe Ultimate FWD" Combines="23" />
+  <Car Name="Tucson Eco FWD" Combines="33" />
+  <Car Name="Tucson FWD" Combines="30" />
+  <Car Name="Tucson FWD" Combines="31" />
+  <Car Name="QX60 FWD" Combines="27" />
+  <Car Name="QX70 RWD" Combines="24" />
+  <Car Name="Cherokee FWD" Combines="31" />
+  <Car Name="Cherokee FWD" Combines="31" />
+  <Car Name="Cherokee FWD" Combines="29" />
+  <Car Name="Compass FWD" Combines="26" />
+  <Car Name="Compass FWD" Combines="30" />
+  <Car Name="Compass FWD" Combines="28" />
+  <Car Name="Compass FWD" Combines="29" />
+  <Car Name="Patriot FWD" Combines="26" />
+  <Car Name="Patriot FWD" Combines="30" />
+  <Car Name="Patriot FWD" Combines="28" />
+  <Car Name="Patriot FWD" Combines="29" />
+  <Car Name="Renegade 4x2" Combines="31" />
+  <Car Name="Renegade 4x2" Combines="31" />
+  <Car Name="Sorento FWD" Combines="27" />
+  <Car Name="Sorento FWD" Combines="29" />
+  <Car Name="Sorento FWD" Combines="26" />
+  <Car Name="Sportage FWD" Combines="28" />
+  <Car Name="Sportage SX FWD" Combines="26" />
+  <Car Name="NX 200t" Combines="28" />
+  <Car Name="NX 300h" Combines="31" />
+  <Car Name="RX 350" Combines="28" />
+  <Car Name="RX 450h" Combines="30" />
+  <Car Name="MKC  FWD" Combines="29" />
+  <Car Name="MKX FWD" Combines="26" />
+  <Car Name="MKX FWD" Combines="26" />
+  <Car Name="CX-5 2WD" Combines="35" />
+  <Car Name="CX-5 2WD" Combines="33" />
+  <Car Name="GLC 300" Combines="28" />
+  <Car Name="OUTLANDER 2WD" Combines="31" />
+  <Car Name="OUTLANDER SPORT 2WD" Combines="31" />
+  <Car Name="OUTLANDER SPORT 2WD" Combines="29" />
+  <Car Name="OUTLANDER SPORT 2WD" Combines="28" />
+  <Car Name="PATHFINDER 2WD" Combines="27" />
+  <Car Name="ROGUE FWD" Combines="33" />
+  <Car Name="HIGHLANDER" Combines="25" />
+  <Car Name="HIGHLANDER" Combines="25" />
+  <Car Name="RAV4" Combines="30" />
+  <Car Name="RAV4 LE/XLE" Combines="31" />
+  <Car Name="Tiguan" Combines="26" />
+  <Car Name="XC60 FWD" Combines="31" />
+  <Car Name="XC60 FWD" Combines="29" />
+  <Car Name="XC70 FWD" Combines="31" />
+  <Car Name="MDX 4WD" Combines="26" />
+  <Car Name="MDX 4WD" Combines="26" />
+  <Car Name="RDX 4WD" Combines="28" />
+  <Car Name="Q5" Combines="28" />
+  <Car Name="Q5" Combines="31" />
+  <Car Name="Q5" Combines="26" />
+  <Car Name="Q5 Hybrid" Combines="30" />
+  <Car Name="SQ5" Combines="24" />
+  <Car Name="X3 xDrive28d" Combines="34" />
+  <Car Name="X3 xDrive28i" Combines="28" />
+  <Car Name="X3 xDrive35i" Combines="27" />
+  <Car Name="X4 M40i" Combines="25" />
+  <Car Name="X4 xDrive28i" Combines="28" />
+  <Car Name="X4 xDrive35i" Combines="27" />
+  <Car Name="ENCORE AWD" Combines="32" />
+  <Car Name="ENCORE AWD" Combines="30" />
+  <Car Name="ENVISION AWD" Combines="26" />
+  <Car Name="EQUINOX AWD" Combines="29" />
+  <Car Name="EQUINOX AWD" Combines="29" />
+  <Car Name="EQUINOX AWD" Combines="23" />
+  <Car Name="TRAX AWD" Combines="31" />
+  <Car Name="Journey AWD" Combines="24" />
+  <Car Name="500X AWD" Combines="30" />
+  <Car Name="EDGE AWD" Combines="28" />
+  <Car Name="EDGE AWD" Combines="24" />
+  <Car Name="EDGE AWD" Combines="25" />
+  <Car Name="ESCAPE AWD" Combines="29" />
+  <Car Name="ESCAPE AWD" Combines="28" />
+  <Car Name="TERRAIN AWD" Combines="29" />
+  <Car Name="TERRAIN AWD" Combines="23" />
+  <Car Name="CR-V 4WD" Combines="31" />
+  <Car Name="HR-V 4WD" Combines="32" />
+  <Car Name="HR-V 4WD" Combines="32" />
+  <Car Name="PILOT 4WD" Combines="26" />
+  <Car Name="PILOT 4WD" Combines="26" />
+  <Car Name="Santa Fe AWD" Combines="24" />
+  <Car Name="Santa Fe Sport AWD" Combines="24" />
+  <Car Name="Santa Fe Sport AWD" Combines="25" />
+  <Car Name="Santa Fe Ultimate AWD" Combines="22" />
+  <Car Name="Tucson AWD" Combines="28" />
+  <Car Name="Tucson AWD" Combines="26" />
+  <Car Name="Tucson Eco AWD" Combines="31" />
+  <Car Name="QX60 AWD" Combines="26" />
+  <Car Name="QX70 AWD" Combines="22" />
+  <Car Name="Cherokee 4X4" Combines="28" />
+  <Car Name="Cherokee 4X4" Combines="28" />
+  <Car Name="Cherokee 4X4" Combines="28" />
+  <Car Name="Cherokee 4x4 Active Drive II" Combines="27" />
+  <Car Name="Cherokee 4x4 Active Drive II" Combines="26" />
+  <Car Name="Cherokee Trailhawk 4X4" Combines="25" />
+  <Car Name="Cherokee Trailhawk 4X4" Combines="26" />
+  <Car Name="Compass 4X4" Combines="26" />
+  <Car Name="Compass 4X4" Combines="23" />
+  <Car Name="Compass 4X4" Combines="27" />
+  <Car Name="Patriot 4X4" Combines="26" />
+  <Car Name="Patriot 4X4" Combines="23" />
+  <Car Name="Patriot 4X4" Combines="27" />
+  <Car Name="Renegade 4x4" Combines="31" />
+  <Car Name="Renegade 4x4" Combines="29" />
+  <Car Name="Wrangler 4X4" Combines="21" />
+  <Car Name="Wrangler 4X4" Combines="21" />
+  <Car Name="Wrangler Unlimited 4X4" Combines="20" />
+  <Car Name="Wrangler Unlimited 4X4" Combines="21" />
+  <Car Name="Sorento AWD" Combines="25" />
+  <Car Name="Sorento AWD" Combines="26" />
+  <Car Name="Sorento AWD" Combines="23" />
+  <Car Name="Sorento AWD FE" Combines="26" />
+  <Car Name="Sportage AWD" Combines="26" />
+  <Car Name="Sportage SX AWD" Combines="25" />
+  <Car Name="Discovery Sport" Combines="26" />
+  <Car Name="Range Rover Evoque" Combines="30" />
+  <Car Name="NX 200t AWD" Combines="28" />
+  <Car Name="NX 200t AWD F SPORT" Combines="27" />
+  <Car Name="NX 300h AWD" Combines="30" />
+  <Car Name="RX 350 AWD" Combines="26" />
+  <Car Name="MKC  AWD" Combines="26" />
+  <Car Name="MKC  AWD" Combines="26" />
+  <Car Name="MKX AWD" Combines="24" />
+  <Car Name="MKX AWD" Combines="23" />
+  <Car Name="CX-5 4WD" Combines="30" />
+  <Car Name="GLA 250 4MATIC" Combines="32" />
+  <Car Name="GLA 250 4MATIC" Combines="32" />
+  <Car Name="GLC 300 4MATIC" Combines="28" />
+  <Car Name="OUTLANDER 4WD" Combines="29" />
+  <Car Name="OUTLANDER 4WD" Combines="27" />
+  <Car Name="OUTLANDER SPORT 4WD" Combines="29" />
+  <Car Name="OUTLANDER SPORT 4WD" Combines="27" />
+  <Car Name="PATHFINDER 4WD" Combines="26" />
+  <Car Name="PATHFINDER 4WD PLATINUM" Combines="26" />
+  <Car Name="ROGUE AWD" Combines="32" />
+  <Car Name="Macan S" Combines="23" />
+  <Car Name="Macan Turbo" Combines="23" />
+  <Car Name="CROSSTREK" Combines="34" />
+  <Car Name="CROSSTREK" Combines="31" />
+  <Car Name="CROSSTREK HYBRID" Combines="34" />
+  <Car Name="FORESTER" Combines="28" />
+  <Car Name="FORESTER" Combines="32" />
+  <Car Name="FORESTER" Combines="29" />
+  <Car Name="OUTBACK" Combines="33" />
+  <Car Name="OUTBACK" Combines="27" />
+  <Car Name="RAV4 AWD" Combines="29" />
+  <Car Name="RAV4 HYBRID AWD" Combines="31" />
+  <Car Name="RAV4 Limited AWD/SE AWD" Combines="29" />
+  <Car Name="Tiguan 4Motion" Combines="26" />
+  <Car Name="XC60 AWD" Combines="27" />
+  <Car Name="XC60 AWD" Combines="26" />
+  <Car Name="XC60 AWD" Combines="23" />
+  <Car Name="XC70 AWD" Combines="26" />
+  <Car Name="X5 sDrive35i" Combines="25" />
+  <Car Name="X6 sDrive35i" Combines="25" />
+  <Car Name="ENCLAVE FWD" Combines="22" />
+  <Car Name="ESCALADE 2WD" Combines="22" />
+  <Car Name="SRX" Combines="24" />
+  <Car Name="C1500 SUBURBAN 2WD" Combines="23" />
+  <Car Name="C1500 SUBURBAN 2WD" Combines="23" />
+  <Car Name="C1500 TAHOE 2WD" Combines="23" />
+  <Car Name="C1500 TAHOE 2WD" Combines="23" />
+  <Car Name="TRAVERSE FWD" Combines="22" />
+  <Car Name="Durango RWD" Combines="27" />
+  <Car Name="Durango RWD" Combines="22" />
+  <Car Name="Expedition 2WD" Combines="22" />
+  <Car Name="Expedition EL 2WD" Combines="21" />
+  <Car Name="EXPLORER FFV 2WD" Combines="24" />
+  <Car Name="EXPLORER FWD" Combines="28" />
+  <Car Name="EXPLORER FWD" Combines="24" />
+  <Car Name="Flex FWD" Combines="23" />
+  <Car Name="ACADIA FWD" Combines="22" />
+  <Car Name="C1500 YUKON 2WD" Combines="23" />
+  <Car Name="C1500 YUKON 2WD" Combines="23" />
+  <Car Name="C1500 YUKON 2WD" Combines="22" />
+  <Car Name="C1500 YUKON XL 2WD" Combines="23" />
+  <Car Name="C1500 YUKON XL 2WD" Combines="23" />
+  <Car Name="C1500 YUKON XL 2WD" Combines="22" />
+  <Car Name="QX60 Hybrid FWD" Combines="28" />
+  <Car Name="QX80 2WD" Combines="20" />
+  <Car Name="Grand Cherokee 4X2" Combines="30" />
+  <Car Name="Grand Cherokee 4X2" Combines="26" />
+  <Car Name="MKT FWD" Combines="24" />
+  <Car Name="Navigator 2WD" Combines="22" />
+  <Car Name="Navigator L 2WD" Combines="20" />
+  <Car Name="GLE 350" Combines="24" />
+  <Car Name="4RUNNER 2WD" Combines="22" />
+  <Car Name="SEQUOIA 2WD" Combines="17" />
+  <Car Name="XC90 FWD" Combines="26" />
+  <Car Name="X5 M" Combines="19" />
+  <Car Name="X5 xDrive 35d" Combines="30" />
+  <Car Name="X5 xDrive35i" Combines="24" />
+  <Car Name="X5 xDrive50i" Combines="21" />
+  <Car Name="X6 M" Combines="19" />
+  <Car Name="X6 xDrive35i" Combines="24" />
+  <Car Name="X6 xDrive50i" Combines="21" />
+  <Car Name="ENCLAVE AWD" Combines="22" />
+  <Car Name="ESCALADE 4WD" Combines="21" />
+  <Car Name="SRX AWD" Combines="23" />
+  <Car Name="K1500 SUBURBAN 4WD" Combines="22" />
+  <Car Name="K1500 SUBURBAN 4WD" Combines="22" />
+  <Car Name="K1500 TAHOE 4WD" Combines="22" />
+  <Car Name="K1500 TAHOE 4WD" Combines="22" />
+  <Car Name="TRAVERSE AWD" Combines="22" />
+  <Car Name="Durango AWD" Combines="25" />
+  <Car Name="Durango AWD" Combines="22" />
+  <Car Name="Expedition 4WD" Combines="20" />
+  <Car Name="Expedition EL 4WD" Combines="20" />
+  <Car Name="EXPLORER AWD" Combines="26" />
+  <Car Name="EXPLORER AWD" Combines="22" />
+  <Car Name="EXPLORER AWD" Combines="23" />
+  <Car Name="EXPLORER FFV AWD" Combines="23" />
+  <Car Name="FLEX AWD" Combines="22" />
+  <Car Name="FLEX AWD" Combines="21" />
+  <Car Name="ACADIA AWD" Combines="22" />
+  <Car Name="K1500 YUKON 4WD" Combines="22" />
+  <Car Name="K1500 YUKON 4WD" Combines="22" />
+  <Car Name="K1500 YUKON 4WD" Combines="21" />
+  <Car Name="K1500 YUKON XL 4WD" Combines="22" />
+  <Car Name="K1500 YUKON XL 4WD" Combines="22" />
+  <Car Name="K1500 YUKON XL 4WD" Combines="20" />
+  <Car Name="QX60 Hybrid AWD" Combines="28" />
+  <Car Name="QX80 4WD" Combines="19" />
+  <Car Name="Grand Cherokee 4X4" Combines="28" />
+  <Car Name="Grand Cherokee 4X4" Combines="25" />
+  <Car Name="Grand Cherokee 4X4" Combines="22" />
+  <Car Name="Grand Cherokee SRT8 4x4" Combines="19" />
+  <Car Name="LR4" Combines="19" />
+  <Car Name="Range Rover" Combines="23" />
+  <Car Name="Range Rover" Combines="19" />
+  <Car Name="Range Rover LWB" Combines="23" />
+  <Car Name="Range Rover LWB" Combines="19" />
+  <Car Name="Range Rover Sport" Combines="23" />
+  <Car Name="Range Rover Sport" Combines="19" />
+  <Car Name="Range Rover Sport TDV6" Combines="29" />
+  <Car Name="Range Rover TDV6" Combines="29" />
+  <Car Name="GX 460" Combines="20" />
+  <Car Name="LX 570" Combines="18" />
+  <Car Name="RX 450h AWD" Combines="28" />
+  <Car Name="MKT AWD" Combines="21" />
+  <Car Name="Navigator 4WD" Combines="20" />
+  <Car Name="Navigator L 4WD" Combines="19" />
+  <Car Name="AMG G 63" Combines="14" />
+  <Car Name="AMG G65" Combines="13" />
+  <Car Name="AMG GL 63" Combines="17" />
+  <Car Name="AMG GLE 63" Combines="17" />
+  <Car Name="AMG GLE 63 S" Combines="17" />
+  <Car Name="AMG GLE 63 S (coupe)" Combines="18" />
+  <Car Name="G 550" Combines="14" />
+  <Car Name="GL 350 BLUETEC 4MATIC" Combines="26" />
+  <Car Name="GL 450 4MATIC" Combines="21" />
+  <Car Name="GL 550 4MATIC" Combines="18" />
+  <Car Name="GLE 300 d 4MATIC" Combines="29" />
+  <Car Name="GLE 350 4MATIC" Combines="22" />
+  <Car Name="GLE 350 4MATIC" Combines="22" />
+  <Car Name="GLE 350 d 4MATIC" Combines="30" />
+  <Car Name="GLE 400 4MATIC" Combines="22" />
+  <Car Name="GLE 450 AMG (coupe)" Combines="23" />
+  <Car Name="Cayenne" Combines="24" />
+  <Car Name="Cayenne Diesel" Combines="29" />
+  <Car Name="Cayenne GTS" Combines="23" />
+  <Car Name="Cayenne S" Combines="24" />
+  <Car Name="Cayenne Turbo" Combines="21" />
+  <Car Name="Cayenne Turbo S" Combines="21" />
+  <Car Name="4RUNNER 4WD" Combines="21" />
+  <Car Name="4RUNNER 4WD" Combines="21" />
+  <Car Name="HIGHLANDER AWD" Combines="24" />
+  <Car Name="HIGHLANDER HYBRID AWD" Combines="28" />
+  <Car Name="HIGHLANDER HYBRID AWD LE Plus" Combines="28" />
+  <Car Name="LAND CRUISER WAGON 4WD" Combines="18" />
+  <Car Name="SEQUOIA 4WD" Combines="17" />
+  <Car Name="SEQUOIA 4WD FFV" Combines="17" />
+  <Car Name="Touareg" Combines="29" />
+  <Car Name="Touareg" Combines="23" />
+  <Car Name="XC90 AWD" Combines="25" />
+  <Car Name="XC90 AWD" Combines="25" />
+</Cars>

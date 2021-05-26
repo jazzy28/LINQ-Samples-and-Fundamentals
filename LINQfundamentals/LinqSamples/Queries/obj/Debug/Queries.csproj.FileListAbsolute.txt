@@ -1,0 +1,7 @@
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Queries\bin\Debug\Queries.exe.config
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Queries\bin\Debug\Queries.exe
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Queries\bin\Debug\Queries.pdb
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Queries\obj\Debug\Queries.csprojAssemblyReference.cache
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Queries\obj\Debug\Queries.exe
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Queries\obj\Debug\Queries.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Cars\bin\Debug\Cars.exe.config
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Cars\bin\Debug\Cars.exe
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Cars\bin\Debug\Cars.pdb
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Cars\obj\Debug\Cars.exe
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Cars\obj\Debug\Cars.pdb

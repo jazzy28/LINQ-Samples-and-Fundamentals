@@ -1,0 +1,7 @@
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Features\bin\Debug\Features.exe.config
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Features\bin\Debug\Features.exe
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Features\bin\Debug\Features.pdb
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Features\obj\Debug\Features.csprojAssemblyReference.cache
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Features\obj\Debug\Features.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Features\obj\Debug\Features.exe
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqSamples\Features\obj\Debug\Features.pdb

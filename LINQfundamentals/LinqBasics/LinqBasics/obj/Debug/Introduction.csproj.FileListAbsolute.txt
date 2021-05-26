@@ -1,0 +1,7 @@
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqBasics\LinqBasics\bin\Debug\LinqBasics.exe.config
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqBasics\LinqBasics\bin\Debug\LinqBasics.exe
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqBasics\LinqBasics\bin\Debug\LinqBasics.pdb
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqBasics\LinqBasics\obj\Debug\Introduction.csprojAssemblyReference.cache
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqBasics\LinqBasics\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqBasics\LinqBasics\obj\Debug\LinqBasics.exe
+C:\Users\Jasmine.Awatramani\LINQfundamentals\LinqBasics\LinqBasics\obj\Debug\LinqBasics.pdb
